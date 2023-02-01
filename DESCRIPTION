@@ -1,0 +1,10 @@
+Package: MATH4753SP23CUMM
+Type: Package
+Title: Math 4953 Function
+Version: 0.1.0
+Author: Chase Cummins
+Maintainer: Chase Cummins <ccummins55@yahoo.com>
+Description: Functions used in labs and assignments for the course.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
