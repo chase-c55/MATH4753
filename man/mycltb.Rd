@@ -15,6 +15,9 @@ mycltb(n, iter, p = 0.5, ...)
 
 \item{...}{various other arguments}
 }
+\value{
+histogram of the iter samples of size n
+}
 \description{
 My CLT Binomial Simulation
 }

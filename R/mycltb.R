@@ -7,7 +7,7 @@
 #'
 #' @importFrom stats rbinom
 #' @importFrom graphics hist
-#' @return
+#' @return histogram of the iter samples of size n
 #' @export
 #'
 #' @examples mycltb(n = 10, iter = 100, p = 0.4)
